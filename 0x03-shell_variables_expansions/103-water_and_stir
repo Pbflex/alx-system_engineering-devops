@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($WATER + $water)) | printf "$bestchol"
+echo $(($WATER + $water)) | printf "obase=$bestchol"
